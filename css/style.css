@@ -1452,6 +1452,7 @@ blockquote {
     position: relative;
     font-weight: bold;
     color: #fff;
+    cursor: unset;
 }
 
 #clients img {
